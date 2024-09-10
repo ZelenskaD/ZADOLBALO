@@ -1,0 +1,24 @@
+.NavBar {
+  display: flex;
+  justify-content: space-around;
+  background-color: #333;
+  padding: 10px;
+}
+
+.NavBar a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  padding: 10px 15px;
+  transition: color 0.3s;
+}
+
+.NavBar a:hover {
+  color: #ddd;
+}
+
+.active-link {
+  font-weight: bold;
+  color: #f0f0f0; /* Darker color or different to stand out */
+  border-bottom: 2px solid #f0f0f0; /* Optional: add a border to emphasize the active link */
+}

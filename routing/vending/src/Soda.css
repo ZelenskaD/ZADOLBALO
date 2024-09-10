@@ -1,0 +1,25 @@
+ .soda-text{
+ background: rgba(0, 0, 0, 0.3);
+  color: white;
+  font-weight: bold;
+  padding: 20px;
+  border-radius: 8px;
+  max-width: 300px;
+  font-size: 25px;
+  text-align: center;
+  margin: 10px;
+ }
+
+ .soda-text a{
+      color: white;
+ }
+
+ .soda-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100vh;
+  padding: 0 80px;
+  position: relative;
+
+}

@@ -1,0 +1,21 @@
+.NavBar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  background: linear-gradient(45deg, #ff69b4, #ff1493);
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.NavBar a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: color 0.3s;
+}
+
+.NavBar a:hover {
+  color: #ffe4e1;
+}

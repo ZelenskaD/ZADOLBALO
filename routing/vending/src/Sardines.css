@@ -1,0 +1,37 @@
+.Sardines {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 100vh;
+  background-image: url("https://64.media.tumblr.com/d160dba2d7bdcaa6c972b477f6acd5d7/tumblr_njvnd9zupc1qm9k25o1_500.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: white;
+}
+
+h1 {
+  margin: 20px;
+  font-size: 3em;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Adds a shadow for better readability */
+}
+.sardines-text {
+  margin-top: 20px;
+  font-weight: bold;
+  background: rgba(0, 0, 0, 0.5); /* Black with 80% opacity */
+  color: white; /* White text */
+  font-size: 1.5em;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+}
+
+.Sardines a{
+  color: white;
+}
+
+
+
+
