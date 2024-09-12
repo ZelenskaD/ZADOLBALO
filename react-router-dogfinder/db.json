@@ -1,0 +1,44 @@
+{
+  "dogs": [
+    {
+      "name": "Whiskey",
+      "age": 5,
+      "src": "https://i.shgcdn.com/5a6bbb91-bdd7-40cd-8fc9-3e74f89f5b11/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
+      "facts": [
+        "Whiskey loves eating popcorn.",
+        "Whiskey is a terrible guard dog.",
+        "Whiskey wants to cuddle with you!"
+      ]
+    },
+    {
+      "name": "Duke",
+      "age": 3,
+      "src": "https://www.multivu.com/players/English/8563651-bushs-beans-duke-spokes-dog-instagram-petcon/image/BushBeans_1561057461414-HR.jpg",
+      "facts": [
+        "Duke believes that ball is life.",
+        "Duke likes snow.",
+        "Duke enjoys pawing other dogs."
+      ]
+    },
+    {
+      "name": "Perry",
+      "age": 4,
+      "src": "https://images.hellomagazine.com/horizon/original_aspect_ratio/8090fefc8bb0-matthew-perry-dog-z.jpg?tx=c_limit,w_960",
+      "facts": [
+        "Perry loves all humans.",
+        "Perry demolishes all snacks.",
+        "Perry hates the rain."
+      ]
+    },
+    {
+      "name": "Tubby",
+      "age": 4,
+      "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/10A26/production/_89443186_tubby.jpg",
+      "facts": [
+        "Tubby is really stupid.",
+        "Tubby does not like walks.",
+        "Angelina used to hate Tubby, but claims not to anymore."
+      ]
+    }
+  ]
+}

@@ -6,6 +6,7 @@ import Home from "./Home"
 import Eat from "./Eat"
 import Drink from "./Drink"
 import NavBar from "./NavBar"
+import Food from "./Food";
 
 function App() {
 
@@ -17,6 +18,8 @@ function App() {
                         <Route path="/" element={<Home />} />
                         <Route path="/drink" element={<Drink />} />
                         <Route path="/eat" element={<Eat />} />
+                        <Route path="/food/:name" element={<Food  />} />
+
                 </Routes>
 
      </BrowserRouter>
