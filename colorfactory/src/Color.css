@@ -1,0 +1,17 @@
+.add {
+    background-color: rgba(0, 0, 0, 0.8); /* Black with 80% opacity */
+    color: white;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Adds a soft shadow for a matte effect */
+}
+.add a{
+    color: white;
+}
+.colors a{
+    color: black;
+}
+.colors{
+
+    background-color: white;
+    color:black;
+    font-size: 18px;
+}
